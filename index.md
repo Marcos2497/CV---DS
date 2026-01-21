@@ -97,7 +97,8 @@ Análisis y evaluación de la infraestructura tecnológica y procedimientos de s
 
 ---
 
-**📍 Disponibilidad:** • Remoto Full-time • Inicio inmediato
+**Disponibilidad:** • Remoto Full-time • Inicio inmediato
+
 **Referencias bajo solicitud** • **CV actualizado:** [marcos2497.github.io/CV---DS/](https://marcos2497.github.io/CV---DS/)
 
 *Última actualización: Enero 2025*
