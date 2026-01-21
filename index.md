@@ -12,7 +12,6 @@ Desarrollador Full Stack con formación como **Analista en Sistemas**, especiali
 [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
 
 ---
-
 ## EXPERIENCIA
 
 ### **Sistema de Logística para Cooperativa Frigorífica** | **Desarrollador Full Stack**  
