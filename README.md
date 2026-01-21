@@ -3,7 +3,7 @@
 CV profesional en formato Markdown, disponible como página web y PDF.
 
 ## 🌐 Acceso Online
-- **GitHub Pages:** https://tuusuario.github.io/cv/
+- **GitHub Pages:** https://marcos2497.github.io/CV---DS//
 - **PDF Download:** [CV_Marcos_Da_Silva.pdf](CV_Marcos_Da_Silva.pdf)
 
 ## 📋 Contenido

@@ -2,13 +2,6 @@
 layout: default
 title: "Marcos Natanael Da Silva"
 ---
-
-
-📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958  
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
-
----
-
 ## PERFIL
 
 Desarrollador Full Stack con formación como **Analista en Sistemas**, especializado en el desarrollo de aplicaciones web utilizando **Laravel y React**. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
