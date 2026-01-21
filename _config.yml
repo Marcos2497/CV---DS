@@ -1,10 +1,6 @@
 # _config.yml
 title: "Marcos Natanael Da Silva - CV"
 description: "Analista de Sistemas | Desarrollador Full Stack"
-contact: |
-  📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958
-  [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
-theme: jekyll-theme-minimal
 remote_theme: pages-themes/cayman@v0.2.0
 
 # Incluir CSS personalizado
