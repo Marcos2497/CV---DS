@@ -1,12 +1,11 @@
 ---
 layout: default
-title: "Marcos Natanael Da Silva - Analista en Sistemas"
+title: "Marcos Natanael Da Silva"
 ---
 
-# Marcos Natanael Da Silva
 
 📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958  
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [GitHub](https://github.com/Marcos2497) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
 
 ---
 
@@ -24,7 +23,7 @@ Desarrollador Full Stack con formación como **Analista en Sistemas**, especiali
 Desarrollo completo de un sistema web para la gestión integral de logística de transporte de alimentos balanceados. El sistema permite la administración de lotes de porcinos, control de stock de alimentos en tiempo real, gestión de pedidos, gestión de camiones, gestión de viajes y distribucion de pedidos en camiones tolva, optimización de rutas utilizando API(OpenRouteServices) y gestión automatica de presupuestos. Implementé lógica de negocio para optimización de procesos logísticos, sistema de roles y permisos multi-nivel, integración con generación de documentos (PDF/Excel), y dashboard administrativo con métricas visuales.
 
 **Tecnologías:** Laravel 10, PHP 8.2, Livewire, Blade, HTML5, CSS, MySQL, API(OpenRouteServices), Docker, Git, GitHub, Chart.js.   
-**Repositorio:** [https://github.com/Marcos2497/Proyecto-de-Software---LogiPack.git](https://github.com/Marcos2497)
+**Repositorio:** [Link GitHub](https://github.com/Marcos2497/Proyecto-de-Software---LogiPack.git)
 
 ### **Data Center Universitario - UNaM** | **Técnico Informático**  
 *Marzo 2023 – Presente*
@@ -47,7 +46,7 @@ Coordinación de infraestructura tecnológica para evento académico con 100+ pa
 **Analista en Sistemas de Computación** | *Graduado Marzo 2025*  
 Apóstoles(Misiones), Argentina
 
-**Proyecto Final:** Desarrollo de Sistema de Logística - Calificación: 10  
+**Proyecto Final:** Desarrollo de Sistema de Logística de distribución de Alimentos Balanceados.  
 *Enfoque en desarrollo web empresarial, bases de datos relacionales y arquitectura software*
 
 ### **Universidad Nacional de Misiones (UNaM) | Facultad de Ciencias Exactas Químicas y Naturales (FCEQyN)**
@@ -74,6 +73,9 @@ PostgreSQL, MySQL, Eloquent ORM, JPA
 
 ### **DevOps & Herramientas**
 Docker, Docker Compose, Laravel Sail, Git/GitHub, Postman, Composer, NPM, Maven
+
+### **Deploy & Hosting**
+Vercel, Netlify, GitHub Pages
 
 ### **Metodologías & Procesos**
 Análisis de Requerimientos, Diseño de Sistemas, Pruebas de Software, Documentación Técnica, Desarrollo Iterativo, Trabajo en Equipo Ágil
