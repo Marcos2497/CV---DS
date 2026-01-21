@@ -1,12 +1,12 @@
 # Marcos Natanael Da Silva
 **Analista de Sistemas | Desarrollador Full Stack**  
 📍 Argentina, Misiones | 📧 tuemail@ejemplo.com | 📱 +54 9 XXX XXX-XXXX  
-🔗 [LinkedIn](https://linkedin.com/in/tuperfil) | 🐙 [GitHub](https://github.com/tuusuario) | 🌐 [Portfolio](https://tuportfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) | 🐙 [GitHub](https://github.com/Marcos2497) | 🌐 [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
 
 ---
 
 ## 👨‍💻 Perfil Profesional
-Analista de Sistemas graduado (2025) y estudiante de Licenciatura en Sistemas de Información. Desarrollador Full Stack especializado en tecnologías modernas como React, Node.js y TypeScript. Busco oportunidad remota donde pueda contribuir con soluciones innovadoras mientras continúo aprendiendo.
+Analista de Sistemas graduado (2025) y estudiante de Licenciatura en Sistemas de Información. Desarrollador Full Stack.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -16,20 +16,20 @@ Analista de Sistemas graduado (2025) y estudiante de Licenciatura en Sistemas de
 - HTML5, CSS3, Tailwind CSS
 
 ### **Backend**
-- Node.js, Express.js
+- Node.js,
 - Python (FastAPI/Flask)
 - APIs REST, GraphQL
 
 ### **Bases de Datos**
-- MongoDB & Mongoose
 - PostgreSQL
 - MySQL
+- Firebase
 
 ### **Herramientas**
 - Git & GitHub
 - Docker
 - VS Code, Figma
-- Postman, Insomnia
+- 
 
 ## 🎓 Educación
 
@@ -38,8 +38,7 @@ Universidad Nacional de Misiones
 *Graduado con promedio 8.5*
 
 ### **Licenciatura en Sistemas de Información** (2022-Presente)
-Universidad Nacional de Misiones  
-*Último año en curso*
+Universidad Nacional de Misiones
 
 ## 💼 Proyectos
 
