@@ -3,6 +3,15 @@ title: "Marcos Natanael Da Silva - CV"
 description: "Analista de Sistemas | Desarrollador Full Stack"
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Incluir CSS personalizado
-include:
-  - assets
+# Configuración para ocultar el botón
+show_downloads: false
+github:
+  is_project_page: false
+
+# También puedes agregar esto si quieres más control:
+plugins:
+  - jekyll-remote-theme
+
+# Configuración adicional del tema
+theme_config:
+  show_downloads: false
