@@ -3,17 +3,12 @@ layout: default
 title: "Marcos Natanael Da Silva"
 ---
 
-# Marcos Natanael Da Silva
-**Analista de Sistemas | Desarrollador Full Stack**  
-📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958
-
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
-
----
-
 ## PERFIL
 
 Desarrollador Full Stack con formación como **Analista en Sistemas**, especializado en el desarrollo de aplicaciones web. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
+📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958
+
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="20" height="20"/> GitHub](https://github.com/Marcos2497) • [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"/> LinkedIn](https://www.linkedin.com/in/marcos-natanael-da-silva-a34b47225/) • [Portfolio](https://my-portfolio-2026-chi.vercel.app/)
 
 ---
 
@@ -22,7 +17,7 @@ Desarrollador Full Stack con formación como **Analista en Sistemas**, especiali
 ### **Sistema de Logística para Cooperativa Frigorífica** | **Desarrollador Full Stack**  
 *Proyecto de Graduación | Abril 2024 – Diciembre 2025*
 
-Desarrollo completo de un sistema web para la gestión integral de logística de transporte de alimentos balanceados. El sistema permite la administración de lotes de porcinos, control de stock de alimentos en tiempo real, gestión de pedidos, gestión de camiones, gestión de viajes y distribucion de pedidos en camiones tolva, optimización de rutas utilizando API(OpenRouteServices) y gestión automatica de presupuestos. Implementé lógica de negocio para optimización de procesos logísticos, sistema de roles y permisos multi-nivel, integración con generación de documentos (PDF/Excel), y dashboard administrativo con métricas visuales.
+Sistema web completo para logística de transporte de alimentos. Gestión de lotes, stock, pedidos, camiones y rutas optimizadas con OpenRouteServices API. Caracteristicas: roles multi-nivel, generación PDF/Excel, dashboard con métricas, lógica de negocio para optimización.
 
 **Tecnologías:** Laravel 10, PHP 8.2, Livewire, Blade, HTML5, CSS, MySQL, API(OpenRouteServices), Docker, Git, GitHub, Chart.js.   
 **Repositorio:** [Link GitHub](https://github.com/Marcos2497/Proyecto-de-Software---LogiPack.git)
