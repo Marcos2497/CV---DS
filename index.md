@@ -3,13 +3,9 @@ layout: default
 title: "Marcos Natanael Da Silva"
 ---
 
-## Marcos Natanael Da Silva | Analista en Sistemas & Desarrollador Full Stack
-
----
-
 ## PERFIL
 
-Desarrollador Full Stack con formación como **Analista en Sistemas**, especializado en el desarrollo de aplicaciones web. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
+Desarrollador Full Stack con formación como **Analista en Sistemas**, enfocado en el desarrollo de aplicaciones web. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
 
 📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958
 

@@ -9,7 +9,7 @@ title: "Marcos Natanael Da Silva"
 
 ## PERFIL
 
-Desarrollador Full Stack con formación como **Analista en Sistemas**, especializado en el desarrollo de aplicaciones web. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
+Desarrollador Full Stack con formación como **Analista en Sistemas**, enfocado en el desarrollo de aplicaciones web. Tengo experiencia en el desarrollo de sistemas completos desde el análisis funcional hasta la implementación, aplicando buenas prácticas de programación orientada a objetos y priorizando la claridad y correcto funcionamiento del código. Busco integrarme a un equipo remoto donde pueda aportar mis habilidades técnicas mientras continúo aprendiendo y mejorando la calidad del software de forma continua.
 
 📍 Misiones, Argentina • 📧 marcosnatad@gmail.com • 📞 +54 3754-435958
 
@@ -40,11 +40,6 @@ Sistema web completo para logística de transporte de alimentos. Gestión de lot
 Administración y mantenimiento de infraestructura de red LAN universitaria, soporte técnico especializado en laboratorios de computación (20+ equipos), y resolución de incidencias hardware/software. Participación en proyectos de optimización de sistemas y mejora de procesos técnicos.
 
 **Habilidades desarrolladas:** Troubleshooting, networking básico, atención al usuario técnico, documentación de procedimientos
-
-### **Jornada JolnEA - UNaM** | **Coordinador de Infraestructura**  
-*Marzo 2017 – Noviembre 2018*
-
-Coordinación de infraestructura tecnológica para evento académico con 100+ participantes. Responsable del relevamiento, modelado, documentación, actualización y mantenimiento de todos los recursos tecnológicos del evento.
 
 ---
 
@@ -80,13 +75,16 @@ Laravel 10/11, Spring Boot, Next.js
 GitHub, Docker, Cypress, PHPUnit, Vercel, Netlify, GitHub Pages
 
 ### **Bases de Datos & Almacenamiento**
-PostgreSQL, MySQL, Eloquent ORM, JPA
+PostgreSQL, MySQL, Eloquent ORM, JPA, SQLite, Firebase
 
+### **SQL**
+Consultas avanzadas, normalización, optimización de consultas, triggeres, procedimientos almacenados
 
 ### **Metodologías & Procesos**
 Análisis de Requerimientos, Diseño de Sistemas, Pruebas de Software, Documentación Técnica, Desarrollo Iterativo, Trabajo en Equipo Ágil
 
 ---
+
 
 ## PROYECTOS ADICIONALES
 
@@ -102,7 +100,3 @@ Análisis y evaluación de la infraestructura tecnológica y procedimientos de s
 ---
 
 **Disponibilidad:** • Remoto Full-time • Inicio inmediato
-
-**Referencias bajo solicitud** • **CV actualizado:** [marcos2497.github.io/CV---DS/](https://marcos2497.github.io/CV---DS/)
-
-*Última actualización: Enero 2025*
